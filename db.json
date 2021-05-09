@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "Naman",
+      "lastName": "Dhiman",
+      "email_id": "namandhiman1996@gmail.com",
+      "phone-number": "09897177610",
+      "position": "SDE",
+      "id": 1
+    },
+    {
+      "lastName": "Dhiman",
+      "email_id": "aayudhiman1998@gmail.com",
+      "phone-number": "3242355234",
+      "position": "SDE",
+      "firstName": "Aayu",
+      "id": 2
+    },
+    {
+      "firstName": "Satyam",
+      "lastName": "Bhorwal",
+      "email_id": "namandhiman1996@gmail.com",
+      "phone-number": "9897177611",
+      "position": "Front End Dev",
+      "id": 3
+    },
+    {
+      "firstName": "Abhishek",
+      "lastName": "Kumar",
+      "email_id": "hased@yahoo.com",
+      "phone-number": "9897374771",
+      "position": "Back End Dev",
+      "id": 4
+    }
+  ]
+}
